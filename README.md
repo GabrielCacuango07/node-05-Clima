@@ -1,6 +1,6 @@
 # Practica 05 clima
 ## Nombre: Gabriel Cacuango
-Consolo applicaction which to consume the services of an API to obtain values ​​such as temperature, humidity, press based on any city.
+Console applicaction which to consume the services of an API to obtain values ​​such as temperature, humidity, press based on any city.
 
 ## Installation
 To install and run this proyect just type and execute
